@@ -1,0 +1,17 @@
+.input-view{
+    display:grid;
+    gap:0.3rem;
+}
+
+.msg_gap{
+    margin-top:0.5rem;
+}
+
+.input-view-item{
+    padding:1rem 0.4rem;
+    text-align: start;
+}
+
+.width-90{
+    width:90%;
+}

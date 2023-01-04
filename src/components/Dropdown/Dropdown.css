@@ -1,0 +1,22 @@
+.search-more-options{
+    height: 5rem;
+    position:absolute;
+    top:2.3em;
+    right:0;
+    background-color: white;
+    z-index: 99;
+}
+
+.search-more-options div{
+    padding:0.5rem;
+    background-color: white;
+    width:10rem;
+    font-size: 0.8rem;
+    text-align: center;
+    box-shadow: 2px 1px 4px gray;
+    cursor: pointer;
+}
+
+.search-more-options div:hover{
+    background-color: rgb(241, 240, 240);
+}

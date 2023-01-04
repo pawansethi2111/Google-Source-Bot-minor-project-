@@ -1,0 +1,5 @@
+@media only screen and (max-width:900px) {
+    .media-900-none{
+        display: none;
+    }
+}

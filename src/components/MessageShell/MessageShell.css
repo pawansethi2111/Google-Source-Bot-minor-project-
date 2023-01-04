@@ -1,0 +1,37 @@
+.content-wrapper{
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr 12fr;
+    max-width:100rem;
+    width:35rem;
+}
+
+.content-wrapper-with-search{
+    max-width: 100rem;
+    width:70vw;
+}
+
+.content-section{
+    display:flex;
+    justify-content: center;
+    align-items: flex-start;
+    width:100%;
+}
+
+.search-results-wrapper{
+  height:85vh; 
+  width:100%;
+} 
+
+.sub-grid-layout{
+    display:grid;
+    grid-template-columns: 1fr;
+}
+
+#adjusted-width{
+    width:30% !important;
+}
+
+.w70{
+    width:70%;
+}
